@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">ICT_loan_app</string>
+    <string name="inventory_manager">Inventory Manager</string>
+    <string name="withdraw">Withdraw</string>
+    <string name="review">Review</string>
+    <string name="manage">Manage</string>
+    <string name="forreturn">Return</string>
 </resources>
